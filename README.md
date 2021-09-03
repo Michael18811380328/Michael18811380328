@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=css,html&count_private=true)](https://github.com/Michael18811380328)
+[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=css,html,javascript&count_private=true)](https://github.com/Michael18811380328)
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true)
 
