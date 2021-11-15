@@ -4,11 +4,9 @@
 
 What I'm doing
 
-🚀 working at [Seafile](https://www.seafile.com/home/) and [Seatable](https://www.seatable.cn/) as a developer
+🚀 working at [Seafile](https://www.seafile.com/home/) as a developer
 
 😄 focusing on frontEnd [link](https://michael18811380328.github.io/frontend/site/about/)
-
-💬 leetcoding [link](https://github.com/Michael18811380328/LeetCode)
 
 <!--
 **Michael18811380328/Michael18811380328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
