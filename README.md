@@ -28,8 +28,17 @@ Here are some ideas to get you started:
 
 -->
 
+<div align="center">
+
 [![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=css,html&count_private=true)](https://github.com/Michael18811380328)
+  
+</div>
+
+
+<div align="center">
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true)
+  
+</div>
 
 [![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
