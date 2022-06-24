@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
+统计说明和参数配置
+https://github.com/anuraghazra/github-readme-stats
+https://blog.csdn.net/gobullin/article/details/120513191
+
 -->
 
 <div align="center">
