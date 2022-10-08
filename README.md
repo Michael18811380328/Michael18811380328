@@ -33,7 +33,7 @@ https://blog.csdn.net/gobullin/article/details/120513191
 
 <div align="center">
 
-[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=10)](https://github.com/Michael18811380328)
+[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=5)](https://github.com/Michael18811380328)
   
 </div>
 
