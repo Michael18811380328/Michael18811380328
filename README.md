@@ -4,9 +4,13 @@
 
 What I'm doing
 
-🚀 working at [Seafile](https://www.seafile.com/home/) as a developer
+🚀 I'm a SeaTable front-end software engineer (mainly Javascript) interested in leetcode algorithms, React, testing and automation.
 
-😄 focusing on frontEnd [link](https://michael18811380328.github.io/frontend/site/about/)
+[I'm currently learning some new things - mostly focusing on algorithms and React etc](https://michael18811380328.github.io/frontend/site/about/).
+
+If you would like to get in touch, please find the "About" page of my blog: there is an email address there.
+
+In my free time, I usually go hiking or road biking.
 
 <!--
 **Michael18811380328/Michael18811380328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +30,7 @@ Here are some ideas to get you started:
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-统计说明和参数配置
+statistics
 https://github.com/anuraghazra/github-readme-stats
 https://blog.csdn.net/gobullin/article/details/120513191
 -->
