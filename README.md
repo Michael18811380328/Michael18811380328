@@ -4,7 +4,7 @@
 
 What I'm doing
 
-🚀 I'm a SeaTable front-end software engineer (mainly Javascript) interested in leetcode algorithms, React, testing and automation.
+🚀 I'm a front end software engineer (mainly JS) interested in leetcode algorithms, react, testing and automation.
 
 [I'm currently learning some new things - mostly focusing on algorithms and React etc](https://michael18811380328.github.io/frontend/site/about/).
 
@@ -37,7 +37,7 @@ https://blog.csdn.net/gobullin/article/details/120513191
 
 <div align="center">
 
-[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=5)](https://github.com/Michael18811380328)
+[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&hide=css&langs_count=8)](https://github.com/Michael18811380328)
   
 </div>
 
