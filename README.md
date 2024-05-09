@@ -35,17 +35,8 @@ https://github.com/anuraghazra/github-readme-stats
 https://blog.csdn.net/gobullin/article/details/120513191
 -->
 
-<div align="center">
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html,css&langs_count=10&layout=compact)](https://github.com/Michael18811380328)
 
-[![Meow Lang~](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html,css&langs_count=5)](https://github.com/Michael18811380328)
-  
-</div>
-
-
-<div align="center">
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true)
-  
-</div>
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true&rank_icon=percentile&show_icons=true)
 
 [![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
