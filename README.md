@@ -6,7 +6,7 @@ What I'm doing
 
 🚀 I'm a front end software engineer (mainly JS) interested in leetcode algorithms, react, testing and automation.
 
-[I'm currently learning some new things - mostly focusing on algorithms and React etc](https://michael18811380328.github.io/frontend/site/about/).
+[I'm currently learning some new things - mostly focusing on algorithms and React etc](https://michael18811380328.github.io/site/personal/site/index.html).
 
 If you would like to get in touch, please find the "About" page of my blog: there is an email address there.
 
@@ -35,7 +35,7 @@ https://github.com/anuraghazra/github-readme-stats
 https://blog.csdn.net/gobullin/article/details/120513191
 -->
 
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=10&layout=compact&count_private=true&show_icons=true)](https://github.com/Michael18811380328)
+[![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=8&layout=compact&count_private=true&show_icons=true)](https://github.com/Michael18811380328)
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true&rank_icon=percentile&show_icons=true)
 
