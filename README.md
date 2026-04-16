@@ -35,6 +35,10 @@ https://github.com/anuraghazra/github-readme-stats
 https://blog.csdn.net/gobullin/article/details/120513191
 -->
 
+<!-- 
+This API (github-readme-stats.vercel.app/api/top-langs) only count public projects under your own name that are not Fork, and calculate their proportion based on the number of code bytes; Private libraries are not included by default
+-->
+
 [![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=8&layout=compact&count_private=true&show_icons=true)](https://github.com/Michael18811380328)
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true&rank_icon=percentile&show_icons=true)
