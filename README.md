@@ -24,7 +24,6 @@ Independent and practical projects
 |[**train\-route\-map**](https://github.com/Michael18811380328/train-route-map)|`React/Map Visualization`|Train route visualization system\. It displays cities, stations, train routes and detailed schedule information with interactive map functions\.|Active|
 |[**webpack\-babel**](https://github.com/Michael18811380328/webpack-babel)|`Webpack/Babel/JS`|Front\-end engineering practice repository\. It builds Webpack \+ Babel packaging environment to learn modern front\-end construction workflow\.|Completed|
 |[**Personal Blog**](https://github.com/Michael18811380328/Michael18811380328.github.io)|`JS/Python/Blog`|Personal technical homepage and blog\. Records personal projects, technical articles and daily learning notes as an open\-source resume\.|Updating|
-
 |[**Leisure**](https://github.com/Michael18811380328/Leisure)|`Java`|A leisure website developed with Java, including basic server architecture and functional module development practice\.|Archived|
 
 ## 🧪 Learning and Practice Projects
@@ -38,6 +37,7 @@ Repositories for technical learning, function testing and code training
 |[**codecombat**](https://github.com/Michael18811380328/codecombat)|`Frontend/Coding Learning`|A game\-based coding learning platform\. Practice programming logic and improve coding thinking through interactive levels\.|Code Practice|
 |[**HelloTs**](https://github.com/Michael18811380328/HelloTs)|`TypeScript`|Comprehensive TypeScript beginner practice project, including basic syntax, advanced features and practical demos to solidify TS skills\.|Completed|
 |[**HelloVUE**](https://github.com/Michael18811380328/HelloVUE)|`JavaScript/Vue`|Vue framework learning project, including basic component development, page construction and interactive functions for novice learning\.|Completed|
+|[**BetterGeo**](https://github.com/Michael18811380328/BetterGeo)|`Minecraft\-Mod`|A custom terrain generation mod for Minecraft, optimizing the original terrain logic and expanding game gameplay\.|Archived|
 
 ## 🔗 Forked Open Source Projects
 
@@ -54,12 +54,3 @@ High\-quality open\-source projects for source code learning and secondary devel
 |[**react\-and\-redux**](https://github.com/Michael18811380328/react-and-redux)|mocheng/react\-and\-redux|Source code of the book \&lt;Deep Dive into React and Redux\&gt;, focusing on state management and advanced React development\.|Redux State Management|
 |[**web\-to\-react\-native\-style**](https://github.com/Michael18811380328/web-to-react-native-style)|yiminghe/web\-to\-react\-native\-style|A conversion tool for transforming web styles to React Native styles to solve cross\-end style compatibility problems\.|Cross\-platform Development|
 |[**USTC\-CS\-Courses\-Resource**](https://github.com/Michael18811380328/USTC-CS-Courses-Resource)|ustcwpz/USTC\-CS\-Courses\-Resource<br>|A comprehensive collection of USTC CS course resources, including courseware, exercises and learning materials\.|Computer Science Learning|
-|[**BetterGeo**](https://github.com/Michael18811380328/BetterGeo)|`Minecraft\-Mod`|A custom terrain generation mod for Minecraft, optimizing the original terrain logic and expanding game gameplay\.|Archived|
-
----
-
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs?username=Michael18811380328&hide=html&langs_count=8&layout=compact&count_private=true&show_icons=true)](https://github.com/Michael18811380328)
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael18811380328&hide=css,html&count_private=true&rank_icon=percentile&show_icons=true)
-
-[![Power!](https://img.shields.io/badge/Powered%20by-%20anuraghazra%20%2F%20github--readme--stats%20-ff69b4)](https://github.com/anuraghazra/github-readme-stats)
