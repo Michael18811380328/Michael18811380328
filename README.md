@@ -14,30 +14,30 @@ If you would like to get in touch, please find the "About" page of my blog: ther
 
 In my free time, I usually go hiking or road biking.
 
-## 💻 Personal Original Projects
+## 💻 Personal Projects
 
-Independent and practical projects developed by myself
+Independent and practical projects
 
 |Project|Tech Stack|Description|Status|
 |---|---|---|---|
-|[**game**](https://github.com/Michael18811380328/game)|`JS/TS/Python`|A collection of small fun games\. A basic game development practice project for accumulating front\-end interaction and logical programming experience\.|Active|
 |[**LeetCode**](https://github.com/Michael18811380328/LeetCode)|`JS/TS/Python/Algorithm`|Personal algorithm brushing repository, including various problem solutions and universal coding templates, continuously updated\.|Updating|
 |[**train\-route\-map**](https://github.com/Michael18811380328/train-route-map)|`React/Map Visualization`|Train route visualization system\. It displays cities, stations, train routes and detailed schedule information with interactive map functions\.|Active|
-|[**HelloTs**](https://github.com/Michael18811380328/HelloTs)|`TypeScript`|Comprehensive TypeScript beginner practice project, including basic syntax, advanced features and practical demos to solidify TS skills\.|Completed|
-|[**HelloVUE**](https://github.com/Michael18811380328/HelloVUE)|`JavaScript/Vue`|Vue framework learning project, including basic component development, page construction and interactive functions for novice learning\.|Completed|
 |[**webpack\-babel**](https://github.com/Michael18811380328/webpack-babel)|`Webpack/Babel/JS`|Front\-end engineering practice repository\. It builds Webpack \+ Babel packaging environment to learn modern front\-end construction workflow\.|Completed|
 |[**Personal Blog**](https://github.com/Michael18811380328/Michael18811380328.github.io)|`JS/Python/Blog`|Personal technical homepage and blog\. Records personal projects, technical articles and daily learning notes as an open\-source resume\.|Updating|
-|[**BetterGeo**](https://github.com/Michael18811380328/BetterGeo)|`Minecraft\-Mod`|A custom terrain generation mod for Minecraft, optimizing the original terrain logic and expanding game gameplay\.|Archived|
+
 |[**Leisure**](https://github.com/Michael18811380328/Leisure)|`Java`|A leisure website developed with Java, including basic server architecture and functional module development practice\.|Archived|
 
-## 🧪 Learning \&amp; Practice Projects
+## 🧪 Learning and Practice Projects
 
 Repositories for technical learning, function testing and code training
 
 |Project|Tech Stack|Description|Purpose|
 |---|---|---|---|
+|[**game**](https://github.com/Michael18811380328/game)|`JS/TS/Python`|A collection of small fun games\. A basic game development practice project for accumulating front\-end interaction and logical programming experience\.|Active|
 |[**third\-part\-libs**](https://github.com/Michael18811380328/third-part-libs)|`JavaScript`|Sort out and test common front\-end third\-party libraries, encapsulate basic usage for daily development reuse\.|Tech Accumulation|
 |[**codecombat**](https://github.com/Michael18811380328/codecombat)|`Frontend/Coding Learning`|A game\-based coding learning platform\. Practice programming logic and improve coding thinking through interactive levels\.|Code Practice|
+|[**HelloTs**](https://github.com/Michael18811380328/HelloTs)|`TypeScript`|Comprehensive TypeScript beginner practice project, including basic syntax, advanced features and practical demos to solidify TS skills\.|Completed|
+|[**HelloVUE**](https://github.com/Michael18811380328/HelloVUE)|`JavaScript/Vue`|Vue framework learning project, including basic component development, page construction and interactive functions for novice learning\.|Completed|
 
 ## 🔗 Forked Open Source Projects
 
@@ -54,7 +54,7 @@ High\-quality open\-source projects for source code learning and secondary devel
 |[**react\-and\-redux**](https://github.com/Michael18811380328/react-and-redux)|mocheng/react\-and\-redux|Source code of the book \&lt;Deep Dive into React and Redux\&gt;, focusing on state management and advanced React development\.|Redux State Management|
 |[**web\-to\-react\-native\-style**](https://github.com/Michael18811380328/web-to-react-native-style)|yiminghe/web\-to\-react\-native\-style|A conversion tool for transforming web styles to React Native styles to solve cross\-end style compatibility problems\.|Cross\-platform Development|
 |[**USTC\-CS\-Courses\-Resource**](https://github.com/Michael18811380328/USTC-CS-Courses-Resource)|ustcwpz/USTC\-CS\-Courses\-Resource<br>|A comprehensive collection of USTC CS course resources, including courseware, exercises and learning materials\.|Computer Science Learning|
-
+|[**BetterGeo**](https://github.com/Michael18811380328/BetterGeo)|`Minecraft\-Mod`|A custom terrain generation mod for Minecraft, optimizing the original terrain logic and expanding game gameplay\.|Archived|
 
 ---
 
