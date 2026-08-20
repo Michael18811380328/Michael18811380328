@@ -14,6 +14,7 @@ If you would like to get in touch, please find the "About" page of my blog: ther
 
 In my free time, I usually go hiking or road biking.
 
+<!-- 
 ## 💻 Personal Projects
 
 Independent and practical projects
@@ -54,3 +55,5 @@ High\-quality open\-source projects for source code learning and secondary devel
 |[**react\-and\-redux**](https://github.com/Michael18811380328/react-and-redux)|mocheng/react\-and\-redux|Source code of the book \&lt;Deep Dive into React and Redux\&gt;, focusing on state management and advanced React development\.|Redux State Management|
 |[**web\-to\-react\-native\-style**](https://github.com/Michael18811380328/web-to-react-native-style)|yiminghe/web\-to\-react\-native\-style|A conversion tool for transforming web styles to React Native styles to solve cross\-end style compatibility problems\.|Cross\-platform Development|
 |[**USTC\-CS\-Courses\-Resource**](https://github.com/Michael18811380328/USTC-CS-Courses-Resource)|ustcwpz/USTC\-CS\-Courses\-Resource<br>|A comprehensive collection of USTC CS course resources, including courseware, exercises and learning materials\.|Computer Science Learning|
+
+-->
